@@ -1,0 +1,7 @@
+{
+  "name": "new matchfit",
+  "description": "A premium digital invitation platform with AI-powered message generation, smart RSVP tracking, and easy social sharing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
